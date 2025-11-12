@@ -360,5 +360,34 @@
 			"inventoryStatus": "INSTOCK",
 			"rating": 8
 		}
+	],
+	"pets": [
+		{
+			"id": 1,
+			"name": "Doggie",
+			"age": 3,
+			"gender": "Masculino",
+			"color": "Marrom",
+			"breed": "Labrador",
+			"owner": "John Doe"
+		},
+		{
+			"id": 2,
+			"name": "Chico",
+			"age": 7,
+			"gender": "Masculino",
+			"color": "Marrom",
+			"breed": "Beagle",
+			"owner": "Maria Silva"
+		},
+		{
+			"id": 3,
+			"name": "Joca",
+			"age": 2,
+			"gender": "Feminino",
+			"color": "Preto",
+			"breed": "Poodle",
+			"owner": "Ana Souza"
+		}
 	]
 }

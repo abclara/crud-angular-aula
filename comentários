@@ -31,3 +31,5 @@ LEVANTA O DB:
 json-server --watch db.json
 
 Services - comunicação com o backend (API)
+
+Batch Rename - renomeia os arquivos em lote (seleciona os arquivos, botão direito do mouse, batch rename)
